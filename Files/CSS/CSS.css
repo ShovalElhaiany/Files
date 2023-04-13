@@ -1,0 +1,68 @@
+style {
+    * {
+        background-color: orange;
+        color: blue;
+        text-align: center;
+        color: rgb(0, 30, 250);
+        color: rgb(0%, 100%, 0%);
+        font-size: 20pt;
+        font-size: 2em;
+        font-size: x-large;
+        letter-spacing: 5px;
+        direction: rtl;
+        text-decoration: underline;
+        text-decoration: overline underline;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        margin: 0px auto;
+        max-width: 960px;
+        border: solid 10px blue;
+        border-color: white;
+        margin-bottom: 15px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 20px #888;
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -moz-border-radius: 10px;
+        position: absolute;
+        top: 50px;
+        left: -120px;
+        padding: 0px 150px;
+        float: left;
+        text-transform: capitalize;
+        border-style: solid;
+        border-width: 10px 5px 15px 25px;
+        background-position: center bottom;
+        background-attachment: scroll;
+        list-style-type: circle/ square;
+        list-style-image: url("#");
+        list-style-position: inside;
+        overflow: hidden;
+        cursor: text;
+        zoom: 200%;
+        opacity: 10%;
+        position: relative;
+        z-index: 1;
+        padding: 20px 10px 30px 20px;
+        margin: 30px 20px 10px 15px;
+        display: block;
+        text-shadow: -4px 4px 3px #999;
+    }
+}
+
+* {}
+
+#id {}
+
+.class {}
+
+td.Header {}
+
+h1,
+p {}
+
+#ul2>li {}
+
+table a {}
+
+p:first-letter p:first-line a:link a:visited a:hover a:active input:focus img:hover
+/*הגדרת עיצוב עבור תגית מסוימת */
